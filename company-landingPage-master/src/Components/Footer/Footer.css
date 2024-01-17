@@ -1,0 +1,26 @@
+.footer-container{
+    position: relative;
+}
+.footer-container>hr{
+    color: whitesmoke;
+    height: 2px;
+}
+.footer{
+    display: flex;
+    padding: 1rem 2rem;
+    gap: 1rem;
+    justify-content: center;
+   
+
+}
+.footer>img{
+    width: 2rem;
+    height: 2rem;
+}
+.footer>img:hover{
+    cursor: pointer;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
